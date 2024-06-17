@@ -68,6 +68,7 @@ The alternative of fixed pricing is dynamic pricing. The dynamic pricing can be 
 * "Higher" or "Lower" value in this context, therefore, reflects with the market average in the platform
 * In order to estimate new revenue after adjusting pricing, and based on the linear relationship derived above, it's fair to assume the revenue change is proportional to the change in price with coeff = 16.9
 
+# Result and hypothesis verification with t-test
 We can redistribute the feature price by each category, as can be seen:
 
 ![Feature New Price](https://raw.githubusercontent.com/nvlinhvn/feature-pricing/linh-dev/img/Feature_New_Price.png)
