@@ -44,6 +44,7 @@ Pros:
 * High Adaptability based on demand/market or seasonality
 * Maximize Revenue Opportunities: charging more for high-demand categories and less for low-demand ones → fairness in term of perceived value
 * More option for personalization to align with seller needs and use case
+
 Cons:
 * Higher cost of maintenance, monitoring and implementation in the system due to complex logic. Financial revenue prediction model also needs to adjust with dynamic pricing → more challenging in financial planning.
 * Dynamic pricing is a black box for sellers. It can lead to mistrust and confusion when sellers do not fully understand, and no transparency.
