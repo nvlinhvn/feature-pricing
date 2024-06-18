@@ -7,7 +7,7 @@ One of my client is a second hand marketplace where sellers upload items and try
 
 # Basic Analysis
 
-![Feature Adoption](https://raw.githubusercontent.com/nvlinhvn/feature-pricing/linh-dev/img/top_30_feature_adoption.png)
+![Feature Adoption](./img/top_30_feature_adoption.png)
 * We can see that the top categories generating the most revenue are `FOOTWEAR_W_TRAINERS`, `WOMENS_DRESSES`, and `WOMENS_TOPS_T_SHIRTS`. This suggests that the "push up" feature is performing well in these categories.
 * ~60% of revenue from push ups are coming from top 20 categories (10% of total categories)
 * Some categories have a higher revenue per listing compared to others. This indicates potential for optimizing the pricing strategy based on category-specific factors. There’re miss opportunities where some categories like `GIR_SETS`, `CLO_SETS` (undefined category 3) have a high number of listings (> 1000) but no revenue from pushups
@@ -15,9 +15,9 @@ One of my client is a second hand marketplace where sellers upload items and try
 
 
 # Correlation
-![Listing vs Feature Revenue](https://raw.githubusercontent.com/nvlinhvn/feature-pricing/linh-dev/img/listing_vs_feature_revenue.png)
+![Listing vs Feature Revenue](./img/listing_vs_feature_revenue.png)
 
-![Price vs Feature Revenue](https://raw.githubusercontent.com/nvlinhvn/feature-pricing/linh-dev/img/price_vs_feature_revenue.png)
+![Price vs Feature Revenue](./img/price_vs_feature_revenue.png)
 
 * Revenue of the feature are highly correlated with the category competitiveness (number of listing). The correlation is ~0.87
 * For each additional listing, the revenue from push-ups is expected to increase by approximately 0.0505€
