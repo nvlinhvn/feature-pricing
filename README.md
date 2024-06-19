@@ -71,7 +71,7 @@ The alternative of fixed pricing is dynamic pricing. The dynamic pricing can be 
 # Result and hypothesis verification with t-test
 We can redistribute the feature price by each category, as can be seen:
 
-![Feature New Price](https://raw.githubusercontent.com/nvlinhvn/feature-pricing/linh-dev/img/Feature_New_Price.png)
+![Feature New Price](./img/Feature_New_Price.png)
 
 * Now, >75% of category now can have cheaper pushup price than 2 euro. This means more opportunities for sellers to use feature when price is cheaper while there's no significant change (confirmed with t-test) in feature revenue stream
 
